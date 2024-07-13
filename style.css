@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: "Comic Sans", Arial, sans-serif;
+    color: rgb(107, 173, 62);
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}

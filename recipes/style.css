@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color:blueviolet;
+    font-style: italic
+}
+
+.meat {
+    color: darkred;
+    font-weight: bolder;
+}
+
+#gross {
+    color: green;
+    font-style: italic;
+}
+
+h3 {
+    color: aquamarine;
+    background-color: chocolate;
+}
+
+p {
+    color: greenyellow;
+    background-color: crimson;
+}
